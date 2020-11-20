@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ed1d24;
+  color: black;
+  text-align: center;
+  display: grid;
+  align-items: center;
+  font-family: "Bebas Neue", cursive;
+}
